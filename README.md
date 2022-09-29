@@ -26,14 +26,14 @@ psd文件为小电台每月封面
 知识普及宣传、展览与活动推广、年报和Newsletter类一般用无人像的插画。
 
 ### [影视素材](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/PicResources/%E5%BD%B1%E8%A7%86%E6%88%AA%E5%9B%BE)
-豆瓣即可，可选择按尺寸排序，点击查看大图后保存  
-更多见md文档
+使用豆瓣，可选择按尺寸排序，点击查看大图后保存  
+影视推荐更多见md文档
 
 ### [彩虹相关插画](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/PicResources/%E5%BD%A9%E8%99%B9%E7%9B%B8%E5%85%B3)
 常用搜索网站：  
-- pinterest（需要翻墙；记得写作者和授权）
-- [freepik](https://www.freepik.com/author/rawpixel-com)（无须翻墙；插画较多；一个ip一天限制下载三张，记得写作者和授权）
-- [unsplash](https://unsplash.com/)（无须翻墙；图片较多；记得写作者和授权）  
+- pinterest（需要翻墙；作者和授权）
+- [freepik](https://www.freepik.com/author/rawpixel-com)（无须翻墙；插画较多；一个ip一天限制下载三张，作者和授权）
+- [unsplash](https://unsplash.com/)（无须翻墙；图片较多；作者和授权）  
 
 常用搜索词：  
 - diversity；rainbow；queer；lgbtq community；culture diversity；pride
