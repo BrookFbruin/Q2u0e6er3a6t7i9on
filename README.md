@@ -32,6 +32,9 @@ edited by linxi
 ## [VisualElements](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/VisualElements)
 2022年6月视觉更新的主要内容
 
+部分2021版Adobe软件安装包  
+（注：其中Photoshop是beta版，可以用，但会有提醒升级的弹窗）  
+
 >链接：https://pan.baidu.com/s/1PBjtiO86dpka9VVcxlR3jA 
 >提取码：i83d
 
