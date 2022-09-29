@@ -1,5 +1,5 @@
 # Readme
-for bjlgbt北同文化  
+for bjlgbt 北同文化  
 交接文档  
 edited by linxi
 
