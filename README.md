@@ -13,6 +13,9 @@ edited by linxi
 未来荧黑为免版权字体包，可以免费商用;  
 2022年6月的视觉更新用的都是**compressed**瘦长版本
 
+## [MiniFM]
+媒体部小电台每月最后一个工作日发布  
+见北同团队秀米，用pdf导出一整页
 
 ## [PicResources](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/PicResources)
 **分影视截图素材和彩虹相关素材。**  
