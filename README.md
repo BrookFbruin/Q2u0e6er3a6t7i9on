@@ -8,7 +8,6 @@ edited by linxi
 2022.9.29  
 创建该工作文档
 
-
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
 ***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***  
 未来荧黑为免版权字体包，可以免费商用;  
