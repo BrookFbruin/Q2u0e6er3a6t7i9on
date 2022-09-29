@@ -12,14 +12,14 @@
 ### 彩虹相关插画
 常用搜索网站：  
 - pinterest（需要翻墙；记得写作者和授权）
-- freepik（无须翻墙；插画较多；一个ip一天限制下载三张，记得写作者和授权）
-- unsplash（无须翻墙；图片较多；记得写作者和授权）  
+- [freepik](https://www.freepik.com/author/rawpixel-com)（无须翻墙；插画较多；一个ip一天限制下载三张，记得写作者和授权）
+- [unsplash](https://unsplash.com/)（无须翻墙；图片较多；记得写作者和授权）  
 
 常用搜索词：  
 - diversity；rainbow；queer；lgbtq community；culture diversity；pride
 - painting；ink；
 
-### [一个识图网站](https://yandex.com/images/)
+### [yandex 识图网站](https://yandex.com/images/)
 
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
