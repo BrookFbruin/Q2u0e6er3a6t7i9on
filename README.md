@@ -32,8 +32,8 @@ edited by linxi
 ## [VisualElements](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/VisualElements)
 2022年6月视觉更新的主要内容
 
->>>链接：https://pan.baidu.com/s/1PBjtiO86dpka9VVcxlR3jA 
->>>提取码：i83d
+>链接：https://pan.baidu.com/s/1PBjtiO86dpka9VVcxlR3jA 
+>提取码：i83d
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
 ***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***  
