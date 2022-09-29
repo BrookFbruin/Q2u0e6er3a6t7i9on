@@ -1,7 +1,7 @@
 # Readme
 for bjlgbt 
 交接文档  
-edited by Linxi
+edited by 琳溪
 
 ## Updating info.
 2022.9
