@@ -7,6 +7,13 @@ edited by linxi
 ## Updating info.
 2022.9
 
+
+## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
+***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***  
+未来荧黑为免版权字体包，可以免费商用;  
+2022年6月的视觉更新用的都是**compressed**瘦长版本
+
+
 ## [PicResources](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/PicResources)
 **分影视截图素材和彩虹相关素材。**  
 
@@ -38,7 +45,3 @@ edited by linxi
 >链接：https://pan.baidu.com/s/1PBjtiO86dpka9VVcxlR3jA   
 >提取码：i83d
 
-## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
-***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***  
-未来荧黑为免版权字体包，可以免费商用;  
-2022年6月的视觉更新用的都是**compressed**瘦长版本
