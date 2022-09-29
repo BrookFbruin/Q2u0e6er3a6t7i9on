@@ -1,5 +1,9 @@
 # Readme
 for bjlgbt
+edited by Linxi
+
+## Updating info.
+2022.9
 
 ## PicResources
 **分影视截图素材和彩虹相关素材。**  
