@@ -29,5 +29,6 @@ edited by linxi
 
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
+***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***
 未来荧黑为免版权字体包，可以随便商用;  
 2022年6月的视觉更新用的都是**compressed**瘦长版本
