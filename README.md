@@ -24,7 +24,7 @@ edited by Linxi
 - diversity；rainbow；queer；lgbtq community；culture diversity；pride
 - painting；ink；
 
-### [yandex 识图网站](https://yandex.com/images/)
+[**yandex 识图网站**](https://yandex.com/images/)
 
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
