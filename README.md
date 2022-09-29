@@ -4,8 +4,8 @@ for tbgljb
 
 edited by linxi
 
-## Updating info.
-2022.9
+## 更新日志
+2022.9.29
 
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
