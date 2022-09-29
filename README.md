@@ -1,5 +1,6 @@
 # Readme
-for bjlgbt  
+for bjlgbt 
+交接文档  
 edited by Linxi
 
 ## Updating info.
