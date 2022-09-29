@@ -1,6 +1,6 @@
-# Readme
+# 工作交接文档
+
 for bjlgbt 北同文化  
-交接文档  
 edited by linxi
 
 ## Updating info.
