@@ -16,7 +16,8 @@ edited by linxi
 
 ## [MiniFM](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/MiniFM_2206_10)
 媒体部小电台每月最后一个工作日发布  
-见北同团队秀米，导出一整页pdf文档
+内容见北同团队秀米及飞书；最后导出一整页pdf文档  
+psd文件为小电台每月封面
 
 ## [PicResources](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/PicResources)
 **分影视截图素材和彩虹相关素材。**  
