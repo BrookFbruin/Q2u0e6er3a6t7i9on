@@ -27,8 +27,10 @@ edited by linxi
 
 [**yandex 识图网站**](https://yandex.com/images/)
 
+## [VisualElements](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/VisualElements)
+
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
-***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***
-未来荧黑为免版权字体包，可以随便商用;  
+***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***  
+未来荧黑为免版权字体包，可以免费商用;  
 2022年6月的视觉更新用的都是**compressed**瘦长版本
