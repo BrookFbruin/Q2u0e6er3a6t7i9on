@@ -1,6 +1,6 @@
-# 工作交接文档
+# Private 个人工作文件存档
 
-for bjlgbt 北@#%6同#@￥文#￥@&化  
+for tbgljb
 
 edited by linxi
 
@@ -33,9 +33,9 @@ edited by linxi
 2022年6月视觉更新的主要内容
 
 部分2021版Adobe软件安装包  
-（注：其中Photoshop是beta版，可以用，但会有提醒升级的弹窗）  
+*注：其中Photoshop是beta版，可以用，但会有提醒升级的弹窗）*  
 
->链接：https://pan.baidu.com/s/1PBjtiO86dpka9VVcxlR3jA 
+>链接：https://pan.baidu.com/s/1PBjtiO86dpka9VVcxlR3jA   
 >提取码：i83d
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
