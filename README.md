@@ -1,6 +1,6 @@
 # 工作交接文档
 
-for bjlgbt 北同文化  
+for bjlgbt 北@#%6同#@￥文#￥@&化  
 edited by linxi
 
 ## Updating info.
@@ -29,7 +29,7 @@ edited by linxi
 [**yandex 识图网站**](https://yandex.com/images/)
 
 ## [VisualElements](https://github.com/BrookFbruin/Q2u0e6er3a6t7i9on/tree/main/VisualElements)
-
+2022年6月视觉更新的主要内容
 
 ## [GlowSans](https://github.com/BrookFbruin/Queeration/tree/main/GlowSans)
 ***建议先安装好字体包再打开其他源文件，安装时右键可以选择安装到系统***  
